@@ -33,7 +33,7 @@ dotnet build  Lab04_Ex01
 5. Run project โดยการใช้คำสั่ง
 
 ```
-dotnet run  Lab04_Ex01
+dotnet run  --project  Lab04_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 4
