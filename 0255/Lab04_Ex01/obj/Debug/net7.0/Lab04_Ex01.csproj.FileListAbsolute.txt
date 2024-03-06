@@ -1,0 +1,5 @@
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-04\0255\Lab04_Ex01\obj\Debug\net7.0\Lab04_Ex01.csproj.AssemblyReference.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-04\0255\Lab04_Ex01\obj\Debug\net7.0\Lab04_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-04\0255\Lab04_Ex01\obj\Debug\net7.0\Lab04_Ex01.AssemblyInfoInputs.cache
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-04\0255\Lab04_Ex01\obj\Debug\net7.0\Lab04_Ex01.AssemblyInfo.cs
+D:\.Computer Lau\OOP_2566\03376836-OOP-2566-Lab-04\0255\Lab04_Ex01\obj\Debug\net7.0\Lab04_Ex01.csproj.CoreCompileInputs.cache
