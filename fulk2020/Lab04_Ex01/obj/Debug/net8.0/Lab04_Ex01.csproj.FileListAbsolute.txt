@@ -1,0 +1,5 @@
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.AssemblyInfoInputs.cache
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.AssemblyInfo.cs
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.csproj.CoreCompileInputs.cache
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.sourcelink.json
