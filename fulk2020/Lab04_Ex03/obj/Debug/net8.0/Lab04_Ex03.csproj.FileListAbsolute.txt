@@ -1,0 +1,15 @@
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.AssemblyInfoInputs.cache
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.AssemblyInfo.cs
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.csproj.CoreCompileInputs.cache
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.sourcelink.json
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\bin\Debug\net8.0\Lab04_Ex03.exe
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\bin\Debug\net8.0\Lab04_Ex03.deps.json
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\bin\Debug\net8.0\Lab04_Ex03.runtimeconfig.json
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\bin\Debug\net8.0\Lab04_Ex03.dll
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\bin\Debug\net8.0\Lab04_Ex03.pdb
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.dll
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\refint\Lab04_Ex03.dll
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.pdb
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.genruntimeconfig.cache
+C:\65569\03376836-OOP-2566-Lab-04\fulk2020\Lab04_Ex03\obj\Debug\net8.0\ref\Lab04_Ex03.dll
