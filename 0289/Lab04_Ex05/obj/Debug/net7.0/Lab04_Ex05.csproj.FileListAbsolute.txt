@@ -1,0 +1,14 @@
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\bin\Debug\net7.0\Lab04_Ex05.exe
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\bin\Debug\net7.0\Lab04_Ex05.deps.json
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\bin\Debug\net7.0\Lab04_Ex05.runtimeconfig.json
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\bin\Debug\net7.0\Lab04_Ex05.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\bin\Debug\net7.0\Lab04_Ex05.pdb
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.AssemblyInfoInputs.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.AssemblyInfo.cs
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\refint\Lab04_Ex05.dll
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.pdb
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\Lab04_Ex05.genruntimeconfig.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-04\03376836-OOP-2566-Lab-04\0289\Lab04_Ex05\obj\Debug\net7.0\ref\Lab04_Ex05.dll
