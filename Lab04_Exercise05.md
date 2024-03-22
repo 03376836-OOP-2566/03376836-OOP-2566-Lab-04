@@ -58,7 +58,9 @@ dotnet run --project Lab04_Ex05
 7. อธิบายสิ่งที่พบในการทดลอง
    
 มีการแสดงผลออกมาทางหน้าจอ เป็น dotnet run --project Lab04_Ex05
+
 a does not have a value
+
 b is 10
 
 โดยแสดงผลตามคำสั่ง การใช้งานตัวแปร nullable (nullable types) ใน C# โดยใช้ int? ซึ่งใช้ในกรณีที่ต้องการให้ตัวแปรสามารถเก็บค่า null ได้ด้วย เช่น ในตัวอย่าง int? a = null; 
