@@ -1,0 +1,15 @@
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.AssemblyInfoInputs.cache
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.AssemblyInfo.cs
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.csproj.CoreCompileInputs.cache
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.sourcelink.json
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\bin\Debug\net8.0\Lab04_Ex01.exe
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\bin\Debug\net8.0\Lab04_Ex01.deps.json
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\bin\Debug\net8.0\Lab04_Ex01.runtimeconfig.json
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\bin\Debug\net8.0\Lab04_Ex01.dll
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\bin\Debug\net8.0\Lab04_Ex01.pdb
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.dll
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\refint\Lab04_Ex01.dll
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.pdb
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\Lab04_Ex01.genruntimeconfig.cache
+D:\03376836-OOP-2566-Lab-04\65030179_Lab04\Lab04_Ex01\obj\Debug\net8.0\ref\Lab04_Ex01.dll
