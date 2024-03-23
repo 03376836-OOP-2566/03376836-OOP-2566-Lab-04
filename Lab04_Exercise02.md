@@ -30,6 +30,9 @@ dotnet build  Lab04_Ex02
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="683" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-04/assets/144195963/0538fa6a-f959-4878-a53e-5fdf815eb2ee">
+
+
 5. Run project โดยการใช้คำสั่ง
 
 ```
@@ -38,6 +41,11 @@ dotnet run --project Lab04_Ex02
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="554" alt="Screenshot 2024-03-24 013531" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-04/assets/144195963/6d5cb1f3-a482-417e-ba9a-8dcf949d614f">
+
+
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
+โปรแกรมสามารถ Run ได้เพราะได้กำหนดค่าตัวแปรให้ var1 - var4
+โปรแกรมจะแสดง ผล เป็น 10,20,33,Hello World ตามลำดับ
