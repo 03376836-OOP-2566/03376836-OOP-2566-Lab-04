@@ -1,0 +1,5 @@
+D:\03376836-OOP-2566-Lab-04\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+D:\03376836-OOP-2566-Lab-04\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.AssemblyInfoInputs.cache
+D:\03376836-OOP-2566-Lab-04\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.AssemblyInfo.cs
+D:\03376836-OOP-2566-Lab-04\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.csproj.CoreCompileInputs.cache
+D:\03376836-OOP-2566-Lab-04\Lab04_Ex03\obj\Debug\net8.0\Lab04_Ex03.sourcelink.json
