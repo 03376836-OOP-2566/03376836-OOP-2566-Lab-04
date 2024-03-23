@@ -29,6 +29,7 @@ dotnet build  Lab04_Ex01
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-04/assets/144195555/80844267-fbce-4425-9019-55dd974846fb)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -37,8 +38,9 @@ dotnet run  --project  Lab04_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-04/assets/144195555/2ca44977-c081-43ce-8028-1917d6c11ffd)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+โปรแกรมเกิดการ Error ไม่สามารถ Run อะไรได้เลยเพราะไม่ได้กำหนดค่าตัวแปร var1 - var4
 
