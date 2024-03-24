@@ -30,6 +30,7 @@ dotnet build  Lab04_Ex04
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="799" alt="Screenshot 2024-03-24 141104" src="https://github.com/SuphawadiP/03376836-OOP-2566-Lab-04/assets/144196049/9a30c4c6-d772-47e1-a777-2e5ace3f53ec">
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -38,7 +39,8 @@ dotnet run --project Lab04_Ex04
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+<img width="799" alt="Screenshot 2024-03-24 141228" src="https://github.com/SuphawadiP/03376836-OOP-2566-Lab-04/assets/144196049/57229a0a-072c-46a4-ac4c-3476979610ed">
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
+โปรแกรมรับค่าเข้ามา var1 = 10 ให้ var2 = var1 และ var3 = var1 + var2 จะแสดงผลเป็น 10,10,20 ตามลำดับ และให้แสดงผล Type โดยใช้ GetType แสดงผลเป็น System.Int32 เพราะทั้งสามเป็นเลขจำนวนเต็ม
