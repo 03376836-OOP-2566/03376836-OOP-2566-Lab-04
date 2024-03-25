@@ -41,6 +41,8 @@ dotnet build  Lab04_Ex05
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-04/assets/144195995/d676a459-adc0-483b-8456-0af3251bdeba)
+
 5. Run project โดยการใช้คำสั่ง
 
 ```
@@ -49,9 +51,11 @@ dotnet run --project Lab04_Ex05
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![5 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-04/assets/144195995/89fd6f9d-6465-4117-b919-d591c26a7011)
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
+โปรแกรมแสดงผล a does not have a value เพราะเรากำหนดให้ค่า a = null ถ้า a = 10 โปรแกรมจะแสดงผล a = 10 แทน เหมือนของ b = 10 ตามลำดับ int? สามารถเก็บค่า null ได้หรือเก็บค่าจำนวนเต็มได้
 ### ศึกษาเพิ่มเติม
 
 https://www.loginradius.com/blog/engineering/nullable-csharp/
