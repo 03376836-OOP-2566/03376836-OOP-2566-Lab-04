@@ -32,6 +32,8 @@ dotnet build  Lab04_Ex03
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+   ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/43974e12-8778-4c2b-9e58-aff4a83bba30)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -40,7 +42,8 @@ dotnet run --project Lab04_Ex03
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/7ea6b0fc-b820-4510-8758-78c4a6d80b45)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+โปรแกรมไม่สามารถ Run ได้และจะแจ้งเตือนขึ้นมาว่าผิดตรงไหนบ้างเช่นมี syntax error หรือ identifier expected ให้กลับไปตรวจสอบcode อีก
