@@ -48,10 +48,11 @@ dotnet run --project Lab04_Ex05
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/65030121natthamon/03376836-OOP-2566-Lab-04/assets/144195611/8bc4d0b4-1968-4fa2-ae2b-e5c89ac592e1)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
-
+- มีการใช้งาน  null type int? เพื่อให้ตัวแปรสามารถเก็บค่า null และมีการตรวจสอบ a ,b มีค่าหรือไม่ด้วย
 ### ศึกษาเพิ่มเติม
 
 https://www.loginradius.com/blog/engineering/nullable-csharp/
