@@ -40,6 +40,8 @@ dotnet build  Lab04_Ex05
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+   ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/87e280da-5c91-455f-aabf-b50d0e168dd6)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -49,8 +51,12 @@ dotnet run --project Lab04_Ex05
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/a76c7ee8-06c3-4332-abf4-81a301e90470)
 
 7. อธิบายสิ่งที่พบในการทดลอง
+8. โปรแกรมแสดงผล a does not have a value เพราะเรากำหนดให้ค่า a = null ถ้า a = 10 โปรแกรมจะแสดงผล
+
+a = 10 แทน เหมือนของ b = 10 ตามลำดับ int? สามารถเก็บค่า null ได้
 
 ### ศึกษาเพิ่มเติม
 

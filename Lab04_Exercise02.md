@@ -29,6 +29,8 @@ dotnet build  Lab04_Ex02
 ```
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+   ![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/6ec04800-37ea-4e48-9479-b921e3bb5c34)
+
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -37,7 +39,10 @@ dotnet run --project Lab04_Ex02
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-04/assets/144195708/22ccc3a5-f68a-4ed0-a1b6-f8efd1ad2da7)
 
 
 7. อธิบายสิ่งที่พบในการทดลอง
+โปรแกรมสามารถ Run ได้เพราะได้กำหนดค่าตัวแปรให้ var1 - var4
 
+โปรแกรมจะแสดง ผล เป็น 10,20,33,Hello World 
